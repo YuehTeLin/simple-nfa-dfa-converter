@@ -3,7 +3,7 @@
 ## Description
 ---
 
-This script take a json file as input and generate a csv file in output.
+In this project, the script has been created for converting non-deterministic finite automatas (NFAs) into its equivalent deterministic finite automata(DFA).
 
 ### Prerequisites
 
